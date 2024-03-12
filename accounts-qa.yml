@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Sai - Developer"
+    email: "sai@eazybank.com"
+  onCallSupport:
+    - (555) 123-1234
+    - (555) 123-1345
